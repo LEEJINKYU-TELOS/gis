@@ -219,6 +219,7 @@ const nextConfig = {
 - [Slippy Map Tilenames](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) - 타일 좌표 체계
 
 ### 고급 기능 구현 예정
+- [ ] shadcn/ui 통합 (UI 컴포넌트 라이브러리)
 - [ ] 마커 레이어 (GeoJSON)
 - [ ] 클러스터링
 - [ ] 도로 네트워크 (벡터 타일)
